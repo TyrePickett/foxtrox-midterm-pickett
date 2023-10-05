@@ -1,0 +1,34 @@
+body{
+    background-color: wheat;
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: floralwhite;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    border-radius:20%
+}
+#name-title{
+    color: wheat;
+
+}
+.navbar{
+    width: 100%;
+    background-color: black;
+}
+#education{
+    background-color: wheat
+
+}
+.card{
+    background-color: #e3c791;
+}
+p{
+    background: #e3c791;
+    border-radius: 5px;
+}
